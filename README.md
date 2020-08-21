@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=personal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=critical)
-
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=black)
 
 
