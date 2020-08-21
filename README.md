@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76d04b)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
-
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=302683)
+![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=cb3837)
