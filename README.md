@@ -44,6 +44,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=cb3837)
+![](https://img.shields.io/badge/Yarn-informational?style=flat&logo=Yarn&logoColor=white&color=2cbebb)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
