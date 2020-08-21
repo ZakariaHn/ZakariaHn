@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/ZakariaHn/ZakariaHn/blob/master/fredy-jacob-t0SlmanfFcg-unsplash.jpg)
+[![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/fredy-jacob-t0SlmanfFcg-unsplash.jpg "Header")]()
 ### Hi there 👋
 
 <!--
