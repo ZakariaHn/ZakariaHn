@@ -14,7 +14,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 
 
-
+<br>
 # 📉 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
@@ -26,7 +26,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=personal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
-
+<br>
 
 # 🔧 Technolgies & Tools
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
