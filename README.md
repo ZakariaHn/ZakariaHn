@@ -1,5 +1,8 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/banner-1240822_1280.jpg "Header")]()
-### Hi there 👋
+
+
+<p>Hey 👋 </p>
+<p>I'm Zakaria, a Front/ back-end developer, passionate about crafting quality code, and creating accessible experiences.</p>
 
 
 
