@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=personal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
