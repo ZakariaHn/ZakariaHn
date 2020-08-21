@@ -53,8 +53,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=Stack-Overflow&logoColor=white&color=fe7a16)
 ![](https://img.shields.io/badge/Elementary-OS-informational?style=flat&logo=elementary&logoColor=white&color=64baff)
+<br>
+<br>
  
-
-
-
 <p align="center">💕</p>
