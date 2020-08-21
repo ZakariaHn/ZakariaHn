@@ -2,7 +2,7 @@
 
 
 # Hey 👋 My name is Zakaria Hamdan
-<p align="center">I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
+<p>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 Here you can find me on [![LinkedIn][2.2]][2].
 
@@ -56,4 +56,4 @@ Here you can find me on [![LinkedIn][2.2]][2].
 <br>
 <br>
  
-<p align="center">💕</p>
+<p align="center">Stay healthy 💕</p>
