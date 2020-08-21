@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 📉 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
 </a>  
