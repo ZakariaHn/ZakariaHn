@@ -2,7 +2,8 @@
 
 
 <p>Hey 👋 </p>
-<p>My name is Zakaria Hamdan,<br>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together</p>
+
+<p>My name is Zakaria Hamdan,<br><br>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p>
 
 
 
