@@ -47,4 +47,4 @@ Here you can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/CodePen-informational?style=flat&logo=CodePen&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Elementry OS-informational?style=flat&logo=elementry&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Elementry OS-informational?style=flat&logo=elementry&logoColor=white&color=64baff)
