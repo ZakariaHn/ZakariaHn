@@ -34,14 +34,7 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
 
 
-
+### 🌐 Contact
 You can find me on [![LinkedIn][2.2]][2].
-
-
-
-
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-
 [2]: https://www.linkedin.com/in/zak-h/
