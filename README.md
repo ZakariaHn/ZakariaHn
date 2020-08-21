@@ -57,4 +57,4 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 
 
-<p align="center>💕</p>
+<p align="center">💕</p>
