@@ -1,7 +1,15 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/banner-1240822_1280.jpg "Header")]()
 
 
-<p>Hey 👋 My name is Zakaria Hamdan,<br><br>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p>
+# Hey 👋 My name is Zakaria Hamdan
+<p>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> Here you can find me on [![LinkedIn][2.2]][2].
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+[2]: https://www.linkedin.com/in/zak-h/
+
 
 
 
@@ -34,11 +42,3 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
 
 
-# 🌐 Contact
-> Here you can find me on [![LinkedIn][2.2]][2].
-
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[2]: https://www.linkedin.com/in/zak-h/
