@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark)](https://github.com/ZakariaHn/github-readme-stats/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&repo=github-readme-stats)](https://github.com/ZakariaHn/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
