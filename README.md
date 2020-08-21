@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a> 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zakaria-hamdan-portfolio)](https://github.com/ZakariaHn/zakaria-hamdan-portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zapersonal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
 
 
 
