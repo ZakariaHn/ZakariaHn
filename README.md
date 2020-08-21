@@ -50,3 +50,4 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 
 
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)(https://www.linkedin.com/in/zak-h/)
