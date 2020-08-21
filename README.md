@@ -56,4 +56,4 @@ Here you can find me on [![LinkedIn][2.2]][2].
 <br>
 <br>
  
-<p align="center">`Stay healthy 💕`</p>
+`<p align="center">Stay healthy 💕</p>`
