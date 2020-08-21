@@ -5,7 +5,7 @@
 
 
 
-### 📉 GitHub Stats
+# 📉 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
 </a>  
@@ -18,7 +18,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=personal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
 
 
-### 🔧 Technolgies & Tools
+# 🔧 Technolgies & Tools
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699&badge_font_color=black)
@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
 
 
-#### 🌐 Contact
+# 🌐 Contact
 > Here you can find me on [![LinkedIn][2.2]][2].
 
 
