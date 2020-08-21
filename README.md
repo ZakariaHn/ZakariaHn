@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47a248)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+
 
 
