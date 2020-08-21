@@ -31,7 +31,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 <br>
 
 # 🔧 Tools & Technolgies
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
