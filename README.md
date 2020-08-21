@@ -1,9 +1,7 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/banner-1240822_1280.jpg "Header")]()
 
 
-<p>Hey 👋 </p>
-
-<p>My name is Zakaria Hamdan,<br><br>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p>
+<p>Hey 👋 My name is Zakaria Hamdan,<br><br>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p>
 
 
 
