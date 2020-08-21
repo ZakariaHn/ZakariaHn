@@ -1,7 +1,7 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/banner-1240822_1280.jpg "Header")]()
 
 
-# Hey 👋 My name is Zakaria Hamdan
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Zakaria Hamdan
 <p>I'm a Front/ back-end developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 Here you can find me on [![LinkedIn][2.2]][2].
