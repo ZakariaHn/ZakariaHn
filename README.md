@@ -24,10 +24,7 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" />
 </a> 
 
-<a href="https://github-readme-stats.vercel.app/api">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&theme=dark&repo=zamagana-synthesizer"(https://github.com/ZakariaHn/zamagana-synthesizer) />
-</a> 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&repo=github-readme-stats)](https://github.com/ZakariaHn/zamagana-synthesizer)
 
 <a href="https://github-readme-stats.vercel.app/api">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&theme=dark&repo=zakaria-hamdan-portfolio" />
