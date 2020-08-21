@@ -32,3 +32,6 @@
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=302683)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=cb3837)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
+
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
