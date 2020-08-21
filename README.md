@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://github-readme-stats.vercel.app/api">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&theme=dark&repo=zamagana-synthesizer" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&theme=dark&repo=zamagana-synthesizer"(https://github.com/ZakariaHn/zamagana-synthesizer) />
 </a> 
 
 
