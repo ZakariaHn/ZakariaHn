@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
 
 
-### 🌐 Contact
+#### 🌐 Contact
 Here you can find me on [![LinkedIn][2.2]][2].
 
 
