@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699&badge_font_color)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699&badge_font_color=black)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47a248)
