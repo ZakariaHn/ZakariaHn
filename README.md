@@ -54,3 +54,6 @@ Here you can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=Stack-Overflow&logoColor=white&color=fe7a16)
 ![](https://img.shields.io/badge/Elementary-OS-informational?style=flat&logo=elementary&logoColor=white&color=64baff)
  
+
+
+[![Open dd Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
