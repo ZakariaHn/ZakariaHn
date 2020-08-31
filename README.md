@@ -27,7 +27,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 # 🧩 GitHub Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=personal-portfolio)](https://github.com/ZakariaHn/personal-portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=porfolio-React)](https://zakariahn.github.io/portfolio-react/)
 <br>
 
 # 🔧 Tools & Technolgies
