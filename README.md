@@ -36,6 +36,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/WebGl-informational?style=flat&logo=Node.js&logoColor=white&color=990000)
 ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76d04b)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47a248)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
