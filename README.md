@@ -15,10 +15,7 @@ Here you can find me on [![LinkedIn][2.2]][2].
 
 
 
-# 📉 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
-</a>  
+
 
 <a href="https://github-readme-stats.vercel.app/api">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" />
