@@ -5,12 +5,8 @@
 <p>I'm a Full stack web developer and a musician, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 Here you can find me on ![LinkedIn][2].
-
-
-
-
-
 [2]: https://www.linkedin.com/in/zak-h/
+
 <br>
 
 
@@ -18,14 +14,17 @@ Here you can find me on ![LinkedIn][2].
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
 </a>  
+
 <a href="https://github-readme-stats.vercel.app/api/?username=ZakariaHn">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" />
 </a> 
+
 <br>
 
 # 🧩 GitHub Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://github.com/ZakariaHn/zamagana-synthesizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://github.com/ZakariaHn/portfolio)
+
 <br>
 
 # 🔧 Tools & Technolgies
@@ -52,6 +51,7 @@ Here you can find me on ![LinkedIn][2].
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=Stack-Overflow&logoColor=white&color=fe7a16)
 ![](https://img.shields.io/badge/Elementary-OS-informational?style=flat&logo=elementary&logoColor=white&color=64baff)
+
 <br>
 <br>
  
