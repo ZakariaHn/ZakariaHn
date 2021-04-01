@@ -7,7 +7,7 @@
 Here you can find me on [![LinkedIn][2.2]][2].
 
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png&theme=light (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png&color=gray (LinkedIn icon without padding)
 
 
 [2]: https://www.linkedin.com/in/zak-h/
