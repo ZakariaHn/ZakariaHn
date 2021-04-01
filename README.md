@@ -6,7 +6,7 @@
 
 Here you can find me on ![LinkedIn][2].
 
-[2]: https://www.linkedin.com/in/zak-h/
+[2]:https://www.linkedin.com/in/zak-h/
 
 <br>
 
