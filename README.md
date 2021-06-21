@@ -19,7 +19,7 @@
 <br>
 
 # 🧩 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://zakariahn.github.io/zamagana-synthesizer/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://zakariahn.github.io/zamagana-synthesizer/)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://zakariahn.github.io/portfolio/#/)
 
 
