@@ -8,7 +8,7 @@
 
 
 # 📉 GitHub Stats
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" />
 </a> 
 
@@ -20,6 +20,7 @@
 
 # 🧩 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://zakariahn.github.io/zamagana-synthesizer/)  
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://zakariahn.github.io/portfolio/#/)
 
 
