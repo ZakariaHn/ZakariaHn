@@ -1,7 +1,7 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/banner-1240822_1280.jpg "Header")]()
 
 
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Zakaria Hamdan
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> My name is Zakaria Hamdan
 <p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 <br>
