@@ -6,6 +6,14 @@
 
 <br>
 
+# 🧩 Portfolio
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://zakariahn.github.io/portfolio/)
+
+
+
+
+<br>
+
 
 # 📉 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn">
@@ -18,13 +26,7 @@
 
 <br>
 
-# 🧩 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://zakariahn.github.io/portfolio/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=zamagana-synthesizer)](https://zakariahn.github.io/zamagana-synthesizer/)
 
-
-
-<br>
 
 # 🔧 Tools & Technolgies
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
