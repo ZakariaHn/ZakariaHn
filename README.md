@@ -4,13 +4,6 @@
 # Hey <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> My name is Zakaria Hamdan
 <p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
-<br>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakariaHn&show_icons=true&show_owner=true&theme=dark&repo=portfolio)](https://zakariahn.github.io/portfolio/)
-
-
-
 
 <br>
 
