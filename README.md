@@ -17,14 +17,12 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200" />
 </a> 
 
-
-<br>  
-
-
 <a href="https://zakaria-hamdan-portfolio.onrender.com">
    <img align="center" src="./portfolioHome.png" height="200"/>
 </a> 
 
+
+<br>    
 
 
 # 🔧 Tools & Technolgies
