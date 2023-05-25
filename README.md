@@ -21,7 +21,7 @@
 <br>  
 
 
-[![Portfolio](https://img.shields.io/badge/Sass-informational?style=flat&logo=Visit My Portfolio&logoColor=white&color=cc6699 height="200")](https://zakaria-hamdan-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Sass-informational?style=flat&logo=Visit My Portfolio&logoColor=white&color=cc6699)](https://zakaria-hamdan-portfolio.onrender.com)
 
 
 
