@@ -22,7 +22,7 @@
 
 
 <a href="https://zakaria-hamdan-portfolio.onrender.com">
-   <img align="center" src="./portfolioHome.png" height="400"/>
+   <img align="center" src="./portfolioHome.png" height="200"/>
 </a> 
 
 
