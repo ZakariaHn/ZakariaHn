@@ -9,11 +9,11 @@
 
 
 # 📉 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" height="200"/>
 </a> 
 
-<a href="https://github-readme-stats.vercel.app/api/?username=ZakariaHn">
+<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
 </a> 
 
