@@ -17,13 +17,12 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200" />
 </a> 
 
+<br>   
+
+# 💼 GitHub Stats
 <a href="https://zakaria-hamdan-portfolio.onrender.com">
    <img align="center" src="./portfolioHome.png" height="200"/>
 </a> 
-
-
-<br>    
-
 
 # 🔧 Tools & Technolgies
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
