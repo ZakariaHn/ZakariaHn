@@ -16,12 +16,12 @@
 
 
 # 📉 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" width:"50" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn" width="50" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true"/>
 </a> 
 
-<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" width="50" />
+<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn" width="50" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark"/>
 </a> 
 
 <br>   
