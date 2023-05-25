@@ -17,13 +17,8 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
 </a> 
 
-<a href="https://zakaria-hamdan-portfolio.onrender.com/">
-   <img align="center" src="https://github-readme-portfolio.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
-</a> 
-
-
 <br>
-
+[Portfolio](ttps://zakaria-hamdan-portfolio.onrender.com/)
 
 
 
