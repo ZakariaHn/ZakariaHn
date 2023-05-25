@@ -9,7 +9,7 @@
 
 # 💼 Portfolio
 <a href="https://zakaria-hamdan-portfolio.onrender.com">
-   <img align="center" src="./portfolioHome.png" height="200" border-radius="20"/>
+   <img align="center" src="./portfolioHome.png" width="100" border-radius="20"/>
 </a>
 
 <br>
@@ -17,11 +17,11 @@
 
 # 📉 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" height="200" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" width:"50" />
 </a> 
 
 <a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" width="50" />
 </a> 
 
 <br>   
