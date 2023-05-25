@@ -5,13 +5,6 @@
 <p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 
-<br>  
-
-# 💼 Portfolio
-<a href="https://zakaria-hamdan-portfolio.onrender.com" width="100" height="50" >
-   <img align="center" src="./portfolioHome.png"  border-radius="20"/>
-</a>
-
 <br>
 
 
