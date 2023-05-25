@@ -21,7 +21,7 @@
 <br>
 
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariahn)](https://zakaria-hamdan-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699)](https://zakaria-hamdan-portfolio.onrender.com)
 
 
 
