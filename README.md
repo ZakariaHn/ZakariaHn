@@ -20,12 +20,8 @@
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
-</a> 
 
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariahn&repo=github-readme-stats)](https://zakaria-hamdan-portfolio.onrender.com)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariahn&repo=git@github.com:ZakariaHn/portfolio.git)](https://zakaria-hamdan-portfolio.onrender.com)
 
 
 
