@@ -21,7 +21,7 @@
 <br>
 
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariahn&repo=git@github.com:ZakariaHn/portfolio.git)](https://zakaria-hamdan-portfolio.onrender.com)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariahn)](https://zakaria-hamdan-portfolio.onrender.com)
 
 
 
