@@ -22,6 +22,7 @@
 
 
 
+
 # 🔧 Tools & Technolgies
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
