@@ -5,6 +5,13 @@
 <p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 
+<br>  
+
+# 💼 Portfolio
+<a href="https://zakaria-hamdan-portfolio.onrender.com">
+   <img align="center" src="./portfolioHome.png" height="200"/>
+</a>
+
 <br>
 
 
@@ -19,10 +26,6 @@
 
 <br>   
 
-# 💼 Portfolio
-<a href="https://zakaria-hamdan-portfolio.onrender.com">
-   <img align="center" src="./portfolioHome.png" height="200"/>
-</a> 
 
 # 🔧 Tools & Technolgies
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
