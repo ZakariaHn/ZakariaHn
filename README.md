@@ -4,25 +4,6 @@
 
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/portfolioHome.png "Header")](https://zakaria-hamdan-portfolio.onrender.com)
 
-
-
-
-<br>
-
-
-# 📉 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" height="200"/>
-</a> 
-
-<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
-</a> 
-
-<br>   
-
-
-# 🔧 Tools & Technolgies
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
