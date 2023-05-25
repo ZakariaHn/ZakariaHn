@@ -1,8 +1,10 @@
+# Hey <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> My name is Zakaria Hamdan
+<p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
+
+
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/portfolioHome.png "Header")](https://zakaria-hamdan-portfolio.onrender.com)
 
 
-# Hey <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> My name is Zakaria Hamdan
-<p>I'm a Full stack developer and webDev trainer, passionate about crafting quality code, creating accessible experiences and combining both of music and technology together.</p> 
 
 
 <br>
