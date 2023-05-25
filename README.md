@@ -8,8 +8,8 @@
 <br>  
 
 # 💼 Portfolio
-<a href="https://zakaria-hamdan-portfolio.onrender.com" width="50">
-   <img align="center" src="./portfolioHome.png"  border-radius="20"/>
+<a href="https://zakaria-hamdan-portfolio.onrender.com" >
+   <img align="center" src="./portfolioHome.png" width="40" border-radius="20"/>
 </a>
 
 <br>
