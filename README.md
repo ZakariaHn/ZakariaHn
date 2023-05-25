@@ -8,20 +8,20 @@
 <br>  
 
 # 💼 Portfolio
-<a href="https://zakaria-hamdan-portfolio.onrender.com">
-   <img align="center" src="./portfolioHome.png" width="100" border-radius="20"/>
+<a href="https://zakaria-hamdan-portfolio.onrender.com" width="100">
+   <img align="center" src="./portfolioHome.png"  border-radius="20"/>
 </a>
 
 <br>
 
 
 # 📉 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn" width="50" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaHn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" height="200"/>
 </a> 
 
-<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn" width="50" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark"/>
+<a href="https://github-readme-stats.vercel.app/api/?username=zakariaHn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakariaHn&show_icons=true&theme=dark" height="200"/>
 </a> 
 
 <br>   
