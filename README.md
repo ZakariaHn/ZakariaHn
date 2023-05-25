@@ -9,7 +9,7 @@
 
 # 💼 Portfolio
 <a href="https://zakaria-hamdan-portfolio.onrender.com" >
-   <img align="center" src="./portfolioHome.png" height="200" border-radius="20"/>
+   <img align="center" src="./portfolioHome.png" height="300" border-radius="20"/>
 </a>
 
 <br>
