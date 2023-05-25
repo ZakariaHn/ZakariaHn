@@ -13,11 +13,11 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaHn&theme=dark&show_icons=true" height="200"/>
 </a> 
 
-[![My Portfolio](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://zakaria-hamdan-portfolio.onrender.com/)
+[![My Portfolio](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)(https://zakaria-hamdan-portfolio.onrender.com/)
 
 
 <br>
-[https://zakaria-hamdan-portfolio.onrender.com](Portfolio)
+
 
 
 
