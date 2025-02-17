@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/WebGl-informational?style=flat&logo=WebGl&logoColor=white&color=990000)
 ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76d04b)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47a248)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=Sql&logoColor=white&color=47a248)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=cb3837)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=302683)
