@@ -20,10 +20,7 @@
 ![](https://img.shields.io/badge/WebGl-informational?style=flat&logo=WebGl&logoColor=white&color=990000)
 
 
-<br>
-<br>
- 
-<p align="center">Stay healthy 🌿</p>
+
 
 
 
