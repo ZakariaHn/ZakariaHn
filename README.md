@@ -5,7 +5,7 @@
 [![Header](https://github.com/ZakariaHn/ZakariaHn/blob/master/portfolioHome.png "Header")](https://zakaria-hamdan.onrender.com)
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=e5a00d)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=elementary&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/WebGl-informational?style=flat&logo=WebGl&logoColor=white&color=990000)
 ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76d04b)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47a248)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=cb3837)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=302683)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=563d7c)
